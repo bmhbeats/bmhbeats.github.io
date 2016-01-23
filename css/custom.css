@@ -2,13 +2,22 @@ body {
     padding-top: 70px;
 }
 
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
 .navbar-text > a {
-    color: inherit;
+    color: white;
     text-decoration: none;
     margin-right: 20px;
 }
 
 .navbar-inverse {
-    background-color: #122b40;
+    background-color: #564179;
+}
+
+.jumbotron {
+    background-color: #080808;
 }
 
