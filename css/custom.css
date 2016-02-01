@@ -1,8 +1,10 @@
 body {
-    background-image: url("images/brandon.jpg");
-    padding-top: 70px;
+    background: url('http://www.publicdomainpictures.net/pictures/50000/velka/flower-meadow.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
-
 
 .navbar-inverse .navbar-nav > li > a {
     color: white;
@@ -15,7 +17,8 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #564179;
+    background-color: #000000;
+    border: none;
 }
 
 .jumbotron {
@@ -25,3 +28,4 @@ body {
 .tagline {
     color: whitesmoke;
 }
+
