@@ -1,10 +1,10 @@
 body {
-    background: url("djboard.jpg") no-repeat center center fixed;
+    background: url("djboard2.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding: 70px;
+    padding: 50px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -18,7 +18,7 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #000000;
+    background-color: transparent;      /* #391c66 */
     border: none;
 }
 
