@@ -1,9 +1,10 @@
 body {
-    background: url('http://www.publicdomainpictures.net/pictures/50000/velka/flower-meadow.jpg') no-repeat center center fixed;
+    background: url("djboard.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    padding: 70px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
