@@ -1,4 +1,5 @@
 body {
+    background-image: url("images/brandon.jpg");
     padding-top: 70px;
 }
 
@@ -24,4 +25,3 @@ body {
 .tagline {
     color: whitesmoke;
 }
-
